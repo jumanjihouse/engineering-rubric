@@ -1,6 +1,6 @@
 # Engineering Performance Rubric
 
-This is the home of HubSpot's Engineering Performance Rubric.
+This is a fork of HubSpot's Engineering Performance Rubric.
 
 ### Hosting
 
